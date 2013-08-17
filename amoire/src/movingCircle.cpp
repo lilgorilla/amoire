@@ -27,4 +27,5 @@ void Ripple::draw(ofPoint _center){
     ofSetColor(0, 0, 0);
     
     ofCircle(center.x, center.y, radius);
+    
 }

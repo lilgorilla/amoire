@@ -19,6 +19,8 @@ class Ripple{
     float direction;
     ofPoint center;
     
+    
+    
 };
 
 #endif
